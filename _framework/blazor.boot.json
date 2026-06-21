@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazor_WASM_SQL",
   "resources": {
-    "hash": "sha256-WaH4NPm6+cCbg9GGndz3GuPpwvHG7nZ8vgWmYRzQg6c=",
+    "hash": "sha256-jnTwepyy29cHMNASFx/ZvKb5Mb2POlYU/0Ir3L9ZUUc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -108,7 +108,7 @@
       "System.wasm": "sha256-YSihFa+YInKtLQNBZCK8pNPmas5a97BeIhBK9Cl2Qx8=",
       "netstandard.wasm": "sha256-MjYHLQ6ee9bjPrJqe7H6COtQAW52W9HQce75ChAvnIs=",
       "System.Private.CoreLib.wasm": "sha256-CNsMn9YLXAvzEC1gCWKqqq21ssvaCwAdIAMZGAtYoNI=",
-      "Blazor_WASM_SQL.wasm": "sha256-4clJOKE0mhrM55txg7UNuguvdOJ6XKK9BQMI2utHwfA="
+      "Blazor_WASM_SQL.wasm": "sha256-rFUxH3yFR30aYvyqd0SVTni3l/nlVXZx+WjbChFKKjw="
     }
   },
   "cacheBootResources": true,
